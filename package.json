@@ -1,0 +1,17 @@
+{
+  "name": "rname-cli",
+  "version": "0.0.1",
+  "description": "a cli tool for batch rename file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "rname": "bin/index.js"
+  },
+  "author": "Andrewuetyang",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.12.2"
+  }
+}
